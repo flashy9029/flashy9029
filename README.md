@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Unity and C#**
 
-- 👨‍💻 All of my projects are available at [flashy9029.github.io/portfolio](https://flashy9029.github.io/portfolio)
-
-- 📝 I regularly write articles on [flashy9029.github.io/blog](https://flashy9029.github.io/blog)
+- 👨‍💻 All of my projects are available at [flashy9029.itch.io](https://flashy9029.itch.io/)
 
 - 📫 How to reach me **f-tonk@yandex.ru**
 
